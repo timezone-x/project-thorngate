@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Walmart Co-Workers",
+    "type": "mc-server",
+    "edition": "java",
+    "local-ip": "192.168.0.27",
+    "local-port": "25565",
+    "public-ip": "mc.thorngate.xyz",
+    "public-port": "25565"
+  },
+  {
+    "name": "Walmart Co-Workers Trackmap",
+    "type": "site",
+    "local-ip": "192.168.0.27",
+    "local-port": "25565",
+    "public-ip": "trackmap.thorngate.xyz",
+    "public-port": "80"
+  }
+]
